@@ -1,6 +1,7 @@
 # AI × Web3 School — 个人学习仓库
 
 > Personal learning journal and proof-of-work for [AI × Web3 School](https://aiweb3.school).
+> Cohort 0 | Week 1 | Gustave Jeremy
 
 ## 关于 AI × Web3 School
 
@@ -9,22 +10,25 @@ AI x Web3 School 是一个面向 builders 的开源学习平台，系统学习 A
 - 📘 **Handbook**: https://aiweb3.school/zh/handbook/
 - 🎓 **Bootcamp（WCB）**: https://web3career.build/zh/programs/AI-Web3-School
 
-## 目录说明
+## 目录结构
 
 ```
 ├── README.md              # 本文件
 ├── profile.md             # 个人画像
 ├── learning-plan.md       # 学习计划
-├── daily/                 # 每日学习笔记
-│   └── YYYY-MM-DD.md
+├── resources.md           # 学习资源汇总
+├── notes/                 # 课程笔记（按主题组织）
+├── daily/                 # 每日学习日志（YYYY-MM-DD.md）
+├── prompts/               # Prompt 模板库
+├── demos/                 # 实验与 Demo
+├── logs/                  # Agent 协助日志
 ├── tasks/                 # 任务笔记
-├── experiments/           # 实验与代码
+├── experiments/           # 代码实验
 ├── handbook-feedback/     # Handbook 反馈
 ├── hackathon/             # Hackathon 项目
 ├── submissions/           # 提交记录
+├── reflections/           # 个人反思与复盘
 └── templates/             # 模板文件
-    ├── daily-note.md
-    └── task-note.md
 ```
 
 ## ⚠️ 隐私提醒
