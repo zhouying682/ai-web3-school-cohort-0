@@ -9,7 +9,10 @@
 
 ## AI 学习资源
 
-- 待补充
+- 🎥 **李宏毅 (Hung-yi Lee)** — 台大電機 AI 課程
+  - YouTube: https://www.youtube.com/@HungyiLeeNTU
+  - 整理筆記 (HackMD): https://hackmd.io/@4j/BkbCf1OpJl
+  - 特色：深入淺出、台灣 AI 大師、適合入門到進階
 
 ## Web3 学习资源
 
